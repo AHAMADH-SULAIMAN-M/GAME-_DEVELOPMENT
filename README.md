@@ -1,8 +1,8 @@
 # EX 4 : ELLIPSE DRAWING ALGORITHM
 
-NAME : MOHAMED NIZAMUDDIN A
+NAME : AHAMADH SULAIMAN M
 
-REG NO: 212224040194
+REG NO: 212224230009
 
 **AIM :**
 
@@ -47,7 +47,7 @@ main()
   int gd=DETECT,gm; 
   int xcenter,ycenter,rx,ry; 
   int p,x,y,px,py,rx1,ry1,rx2,ry2; 
-  initgraph(&gd,&gm,"c:\\turboc3\\bgi");
+  initgraph(&gd,&gm,"C:\\TURBOC3\\bgi");
   printf("Enter The Radius Value:\n"); 
   scanf("%d%d",&rx,&ry); 
   printf("Enter The xcenter and ycenter Values:\n"); 
@@ -116,9 +116,9 @@ int plotpoints(int xcenter,int ycenter,int x,int y)
 
 **Output :**
 
-![ellipsegamedevlopment](https://github.com/user-attachments/assets/51b06629-23d3-4109-91e3-f236dba53d95)
+![Screenshot 2025-04-27 135032](https://github.com/user-attachments/assets/555ad35c-eb6f-46ee-a739-dca596372fca)
 
 
 **Result :**
 
-Thus the Bresenham’s  algorithm for ellipse using a c coding is implemented successfully .
+Thus the ellipse drawing algorithm is executed successfully
